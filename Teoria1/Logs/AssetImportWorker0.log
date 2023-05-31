@@ -15,11 +15,11 @@ C:/Users/Midlertidig Konto/Desktop/Teoria1/Teoria1
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53595
+54345
 Successfully changed project path to: C:/Users/Midlertidig Konto/Desktop/Teoria1/Teoria1
 C:/Users/Midlertidig Konto/Desktop/Teoria1/Teoria1
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 29.66 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 34.75 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.7f1 (dd97f2c94397)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
@@ -35,83 +35,91 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56268
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56176
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001633 seconds.
+Registered in 0.001653 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 27.58 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 35.13 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.826 seconds
+- Completed reload, in  0.860 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000779 seconds.
+Registered in 0.001990 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 27.46 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 32.39 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.734 seconds
+- Completed reload, in  0.742 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.33 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.9 MB.
-System memory in use after: 84.9 MB.
+Unloading 1987 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.9 MB.
+System memory in use after: 90.8 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2252.
-Total: 1.670800 ms (FindLiveObjects: 0.189300 ms CreateObjectMapping: 0.057900 ms MarkObjects: 1.327500 ms  DeleteObjects: 0.095300 ms)
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2422.
+Total: 1.662500 ms (FindLiveObjects: 0.162700 ms CreateObjectMapping: 0.058200 ms MarkObjects: 1.303600 ms  DeleteObjects: 0.137300 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/Game.unity
-  artifactKey: Guid(f09b989d4d227204bb35c1ee0d168230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Game.unity using Guid(f09b989d4d227204bb35c1ee0d168230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47868f51b58e486b9e2b267516a69e8d') in 0.010224 seconds
-  Import took 0.012342 seconds .
+  path: Assets/Pixel Adventure 1/Assets/Background/Purple.png
+  artifactKey: Guid(248611cc7bb8d85448933cee393ce41e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Background/Purple.png using Guid(248611cc7bb8d85448933cee393ce41e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80a0b72f24bbdcbe4260b8763080cc9d') in 0.121537 seconds
+  Import took 0.123930 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001636 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.37 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.779 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.33 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1947 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.5 MB.
-System memory in use after: 89.2 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2386.
-Total: 1.779500 ms (FindLiveObjects: 0.160500 ms CreateObjectMapping: 0.067800 ms MarkObjects: 1.398000 ms  DeleteObjects: 0.152200 ms)
+Received Import Request.
+  Time since last request: 5.337225 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Background/Purple.png
+  artifactKey: Guid(248611cc7bb8d85448933cee393ce41e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Background/Purple.png using Guid(248611cc7bb8d85448933cee393ce41e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4d9569addb61b067b0b8d0f8aaa1894') in 0.006932 seconds
+  Import took 0.009946 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.009955 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.36 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.747 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.37 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1982 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.6 MB.
-System memory in use after: 90.3 MB.
+Received Import Request.
+  Time since last request: 347.230402 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Terrain
+  artifactKey: Guid(981bfd6ae2b036145b5cc80be601e4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Terrain using Guid(981bfd6ae2b036145b5cc80be601e4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '907a641e689efb86e9b4f74b0c8d6351') in 0.006386 seconds
+  Import took 0.009448 seconds .
 
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2424.
-Total: 1.851500 ms (FindLiveObjects: 0.160200 ms CreateObjectMapping: 0.078900 ms MarkObjects: 1.462300 ms  DeleteObjects: 0.149200 ms)
+========================================================================
+Received Import Request.
+  Time since last request: 2.627628 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Terrain/Terrain (16x16) 1.png
+  artifactKey: Guid(413986c4a668c374d8de72a47621b531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Terrain/Terrain (16x16) 1.png using Guid(413986c4a668c374d8de72a47621b531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc8e48acb7ac69f7b4a71244d25f8c23') in 0.013783 seconds
+  Import took 0.016236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.001331 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Terrain/Terrain Sliced (16x16).png
+  artifactKey: Guid(fc584d329b77b9545b9c9c8bb829e553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Terrain/Terrain Sliced (16x16).png using Guid(fc584d329b77b9545b9c9c8bb829e553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '372717a530f50b3b3ad3cd06cd43b478') in 0.121396 seconds
+  Import took 0.124715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.825718 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Terrain/Terrain Sliced (16x16).png
+  artifactKey: Guid(fc584d329b77b9545b9c9c8bb829e553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Terrain/Terrain Sliced (16x16).png using Guid(fc584d329b77b9545b9c9c8bb829e553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b33981d3cff33415891f2a4327f2ac3') in 0.121322 seconds
+  Import took 0.124551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.295837 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Terrain/Terrain (16x16) 1.png
+  artifactKey: Guid(413986c4a668c374d8de72a47621b531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Terrain/Terrain (16x16) 1.png using Guid(413986c4a668c374d8de72a47621b531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b92fe6db2153ad09f270c92832b72c15') in 0.007284 seconds
+  Import took 0.009921 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

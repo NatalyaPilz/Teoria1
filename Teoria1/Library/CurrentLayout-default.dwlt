@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Inspector
   m_RootView: {fileID: 8}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 91
+  controlID: 120
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 41
+  controlID: 90
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -278,7 +278,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 46
+  controlID: 36
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -342,7 +342,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Pixel Adventure 1/Assets/Terrain
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
@@ -357,7 +358,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: d23f0000
     m_LastClickedID: 16338
-    m_ExpandedIDs: 00000000084000000a4000000c400000
+    m_ExpandedIDs: 0000000026490000284900002a490000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -385,21 +386,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000084000000a4000000c400000
+    m_ExpandedIDs: ffffffff0000000026490000284900002a490000664900006e4900007049000092490000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Game
-      m_OriginalName: Game
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 16438
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 2}
     m_SearchString: 
@@ -506,9 +507,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0ef5ffff
+      m_SelectedIDs: a4180000
       m_LastClickedID: 0
-      m_ExpandedIDs: 90faffff36fbffff
+      m_ExpandedIDs: 86f3ffff3af4ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
